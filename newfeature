@@ -1,0 +1,15 @@
+public class person(){
+	private String firstname;
+	private String lastname;
+	//constructor
+	public person (String firstname, String lastname){
+		this.fisrtname =fisrtname;
+		this.lastname = lastname;
+	}
+	//metodo
+	public String getfisrtname(){
+		return firstname;}
+	public String getlastname(){
+		return lastname;}
+
+}
