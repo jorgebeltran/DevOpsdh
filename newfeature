@@ -13,3 +13,13 @@ public class person(){
 		return lastname;}
 
 }
+public class TestHerencia {
+
+    public static void main (String [] Args) {
+        teacher  teacher1 = new teacher ("Jorge", "beltran", 33);
+        teacher1.setIdteacher("tea 22-387-11");
+        teacher1.showsnameandci();
+        }
+}
+
+
